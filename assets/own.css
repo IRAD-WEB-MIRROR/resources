@@ -1,0 +1,4 @@
+h2.w1h { font-size: 1.05rem; background: #6d84a1; color: #fff; padding: 3px 7px; margin: 18px 0 8px; }
+html.wave-0 table.w0-t { width: 100%; } html.wave-0 table.w0 { border: 1px solid #808080; border-collapse: collapse; width: 100%; font-size: 13px; }
+html.wave-0 table.w0 th { background: #c0c0c0; color: #000; } html.wave-0 table.w0 td, html.wave-0 table.w0 th { border: 1px solid #808080; padding: 3px 5px; }
+@media (max-width: 680px) { html.wave-0 table.w0-t td { display: block; width: auto; } }

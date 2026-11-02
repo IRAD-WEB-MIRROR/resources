@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources.iradgov.org/sitemap.xml
