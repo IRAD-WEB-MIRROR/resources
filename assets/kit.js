@@ -177,9 +177,9 @@
    "kit_isclosed": "Konkurs jabıldı",
    "kit_phone": "Tel.",
    "kit_nav": "Ministrlik jönündö",
-   "kh1": "Sary-Bulak rayonunun tau-ken sektoruna investitsiya 216,6 million dollarga jetti",
-   "kh2": "Chatkal sımap blogu boyuncha ugush 26-noyabrga belgilendi",
-   "kh3": "Nurzhan Munay jana Gaz Konferentsiyasyna rekorddik 700 katyshuuchu katyshty"
+   "kh1": "Jogorku Besh-Tash jylgasynda eki ilbirs kamerada tirkeldi",
+   "kh2": "Sary-Bulak rayonunun tau-ken sektoruna investitsiya 216,6 million dollarga jetti",
+   "kh3": "Chatkal sımap blogu boyuncha ugush 26-noyabrga belgilendi"
   },
   "ru": {
    "kit_home": "Главная",
@@ -223,9 +223,9 @@
    "kit_isclosed": "Конкурс завершён",
    "kit_phone": "Тел.",
    "kit_nav": "О министерстве",
-   "kh1": "Инвестиции в горнодобывающий сектор района Сары-Булак достигли 216,6 млн долларов США",
-   "kh2": "Слушания по чаткальской ртутной установке назначены на 26 ноября",
-   "kh3": "Рекордные 700 участников собрала Нуржанская нефтегазовая конференция"
+   "kh1": "В верховьях Беш-Таша фотоловушки зафиксировали двух снежных барсов впервые за десятилетия",
+   "kh2": "Инвестиции в горнодобывающий сектор района Сары-Булак достигли 216,6 млн долларов США",
+   "kh3": "Слушания по чаткальской ртутной установке назначены на 26 ноября"
   }
  }
 });
