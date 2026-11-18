@@ -197,9 +197,9 @@
    "kit_phone": "Tel.",
    "kit_board": "Zonanın bardık mamlekettik organdarının bosh orundarı Gubernatordun apparatının portalında da birge jarıyalanat:",
    "kit_nav": "Ministrlik jönündö",
-   "kh1": "Jogorku Besh-Tash jylgasynda eki ilbirs kamerada tirkeldi",
-   "kh2": "Sary-Bulak rayonunun tau-ken sektoruna investitsiya 216,6 million dollarga jetti",
-   "kh3": "Chatkal sımap blogu boyuncha ugush 26-noyabrga belgilendi"
+   "kh1": "Chatkal toolorunda üch ilbirs kameraga tüshtü",
+   "kh2": "Jogorku Besh-Tash jylgasynda eki ilbirs kamerada tirkeldi",
+   "kh3": "Sary-Bulak rayonunun tau-ken sektoruna investitsiya 216,6 million dollarga jetti"
   },
   "ru": {
    "kit_home": "Главная",
@@ -248,9 +248,9 @@
    "kit_phone": "Тел.",
    "kit_board": "Вакансии всех государственных органов Зоны также публикуются вместе на портале Аппарата губернатора:",
    "kit_nav": "О министерстве",
-   "kh1": "В верховьях Беш-Таша фотоловушки зафиксировали двух снежных барсов впервые за десятилетия",
-   "kh2": "Инвестиции в горнодобывающий сектор района Сары-Булак достигли 216,6 млн долларов США",
-   "kh3": "Слушания по чаткальской ртутной установке назначены на 26 ноября"
+   "kh1": "Камеры станции «Илбирс» зафиксировали трёх снежных барсов в Чаткальском нагорье",
+   "kh2": "В верховьях Беш-Таша фотоловушки зафиксировали двух снежных барсов впервые за десятилетия",
+   "kh3": "Инвестиции в горнодобывающий сектор района Сары-Булак достигли 216,6 млн долларов США"
   }
  }
 });
